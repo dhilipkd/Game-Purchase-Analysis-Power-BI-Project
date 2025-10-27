@@ -1,6 +1,16 @@
 # Game-Purchase-Analysis-Power-BI-Project
 Built an interactive Power BI dashboard to analyze game purchases and player behavior. Explored demographics, spending patterns, and top genres across regions. Delivered insights on revenue trends, device usage, and engagement to support data-driven gaming decisions.
 
+<img width="1523" height="863" alt="image" src="https://github.com/user-attachments/assets/49a679ba-422c-4b15-84be-68d819799753" />
+
+<img width="1527" height="860" alt="image" src="https://github.com/user-attachments/assets/1c1b5638-e2ca-4e2e-9001-055e7c6c6653" />
+
+<img width="1532" height="857" alt="image" src="https://github.com/user-attachments/assets/2afa5e77-7464-465d-a916-040caf4987c6" />
+
+<img width="1530" height="856" alt="image" src="https://github.com/user-attachments/assets/bbc535ca-ef9e-4481-95f6-97aeb6b4bfc5" />
+
+<img width="1527" height="853" alt="image" src="https://github.com/user-attachments/assets/26403d7f-805f-4f8c-846c-1b571f2a946f" />
+
 
 ### Project Overview
 
@@ -10,7 +20,7 @@ Built an interactive Power BI dashboard to analyze game purchases and player beh
 
 - Game information (Genre, Platform, Device Type)
 
-= Purchase details (Price, Discount, Payment Method, Purchase Type)
+- Purchase details (Price, Discount, Payment Method, Purchase Type)
 
 - Engagement metrics (Play Time, Rating, Refund Status)
 
